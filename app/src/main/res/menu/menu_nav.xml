@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="Fox Home"
+        android:icon="@drawable/tail_vector"/>
+
+    <item
+        android:id="@+id/menu_notification"
+        android:title="Wolf Home"
+        android:icon="@drawable/wolf_paw_vector"/>
+
+    <item
+        android:id="@+id/menu_Settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"/>
+
+</menu>
